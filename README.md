@@ -34,9 +34,9 @@
 - https://drive.google.com/file/d/1wGsc4v-8hFeHyuOVFHnhoY00KnaHyv3M/view?usp=sharing
 
 ### Ejercicios en Clase: Videos Demostrativos (10 Puntos)
-- **CRUD en PostgreSQL**: 
+- **CRUD en PostgreSQL**: https://drive.google.com/file/d/1-6t_jN_jSw1KgvRV3pmNKrIJXoHVtTDJ/view?usp=drive_link
 - **Instalaciones y Configuraciones Básicas: Configuración inicial de Raspberry Pi, PostgreSQL, Node-RED y Mosquitto**: https://drive.google.com/file/d/1wfEv3ml9IAY218-sBAg3b9BEoLBz6f3i/view?usp=sharing
-- **LED y Botón con Raspberry Pi**: 
+- **LED y Botón con Raspberry Pi**: https://drive.google.com/file/d/1-D0BbY7NRTvxI6Y_WBjHTQtYtKHAqNpv/view?usp=drive_link
 - **Conexión MQTT en Node-RED**: https://drive.google.com/file/d/1wtt6JHi81-lcv2MixfXUwUP7gs-crR4V/view?usp=drive_link
 
 ### Ejercicios de Soldadura (20 Puntos)
